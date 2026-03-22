@@ -9,4 +9,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiKumari6201&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KhushiKumari6201&theme=dark)
-
