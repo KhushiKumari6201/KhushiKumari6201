@@ -1,7 +1,7 @@
 ## Hi, I'm Khushi 👋  
 
 💻 CSE Student  
-📚 Learning Data Structures & Algorithms and Web & Java Development  
+📚 Learning Data Structures & Algorithms and Web Development  
 🚀 Building projects and improving coding skills  
 
 ---
